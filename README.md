@@ -8,6 +8,12 @@
 1. Download or clone the project and open it in Visual studio code
 2. Run commend npm install
   
+## Functionality and Components
+  1. Used API :- https://api.dotshowroom.in/api/dotk/catalog/getItemsBasicDetailsByStoreId/2490120?category_type=0
+  2. Render Product data
+  3. Render Particular Product Item Data
+  4. Topbar
+  
   ### Output
 <br>
 <p float="left">
